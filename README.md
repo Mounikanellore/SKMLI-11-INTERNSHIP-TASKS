@@ -9,3 +9,10 @@ same using appropriate datasets.)
 naïve Bayesian classifier model to perform this task. Built-in Java classes/API
 can be used to write the program. Calculate the accuracy, precision, and recall
 for your dataset.)
+T A S K 2 - Rapido Bike Ride Request Forecast using ML
+(we will try to predict ride-request for a particular hour using machine
+learning.)
+T A S K 3 - Health disorder Predictor Using Machine Learning
+(aims to implement a robust machine-learning model that can efficiently
+predict the disease of a human, based on the symptoms that he/she possesses.)
+
