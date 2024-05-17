@@ -1,5 +1,5 @@
 # SKMLI-11-INTERNSHIP-TASKS
-1 A - Implementation of Decision Tree Algorithm Using M L Fundamentals
+T A S K 1 A - Implementation of Decision Tree Algorithm Using M L Fundamentals
 (program to demonstrate the working of the decision tree algorithm.)
 ii) Back Propagation Algorithm Using M L Fundamentals.
 (program for implementing the Back propagation algorithm and test the
