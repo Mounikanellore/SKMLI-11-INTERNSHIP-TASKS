@@ -15,4 +15,13 @@ learning.)
 T A S K 3 - Health disorder Predictor Using Machine Learning
 (aims to implement a robust machine-learning model that can efficiently
 predict the disease of a human, based on the symptoms that he/she possesses.)
-
+PHASE IV : MINI PROJECT - WINE QUALITY PREDICTOR USING M L
+Here we will predict the quality of wine on the basis of given features. We use the wine
+quality dataset available on Internet for free. This dataset has the fundamental features
+which are responsible for affecting the quality of the wine. By the use of several Machine
+learning models, we will predict the quality of the wine.
+PHASE IV : MINI PROJECT - IPL SCORE PREDICTOR USING M L & D L
+we often see the scoreline showing the probability of the team winning based on the current
+match situation. This prediction is usually done with the help of data analytics. Before, when
+there were no advancements in machine learning, predictions were usually based on
+intuition or some basic algorithms.
